@@ -1,0 +1,20 @@
+{
+    "visualizer-grid": {
+        "left": 0,
+        "top": 0,
+        "height": 512,
+        "width": 575
+    },
+    "chart-line": {
+        "left": 627,
+        "top": 3,
+        "height": 320,
+        "width": 500
+    },
+    "chart-bar": {
+        "left": 627,
+        "top": 370,
+        "height": 320,
+        "width": 500
+    }
+}
