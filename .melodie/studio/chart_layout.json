@@ -1,26 +1,20 @@
 {
-    "visualizer-covid_contagion_grid": {
-        "left": 0,
-        "top": 0,
-        "height": 512,
-        "width": 575
-    },
     "chart-infection_count_line": {
-        "left": 553,
-        "top": 7,
-        "height": 367,
-        "width": 595
+        "left": 910,
+        "top": 0,
+        "height": 400,
+        "width": 700
     },
     "chart-infection_count_bar": {
-        "left": 553,
-        "top": 434,
-        "height": 361,
-        "width": 595
+        "left": 910,
+        "top": 410,
+        "height": 400,
+        "width": 700
     },
     "visualizer-grid": {
-        "left": 1,
-        "top": 7,
-        "height": 500,
-        "width": 500
+        "left": 30,
+        "top": 0,
+        "height": 810,
+        "width": 810
     }
 }
