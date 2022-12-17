@@ -29,8 +29,8 @@ class CovidVisualizer(Visualizer):
             "dead": lambda: self.model.environment.s3
         })
 
-        self.add_grid('covid_contagion_grid',
-                      lambda: self.model.grid,
+        self.add_grid(name='covid_contagion_grid',
+                      grid_getter=lambda: self.model.grid,
                       var_getter=lambda agent: agent.health_state,
                       var_style={
                           0: {
