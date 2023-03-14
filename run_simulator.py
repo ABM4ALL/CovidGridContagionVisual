@@ -5,6 +5,7 @@ from source.model import CovidModel
 from source.scenario import CovidScenario
 from source.visualizer import CovidVisualizer
 
+
 if __name__ == "__main__":
     simulator = Simulator(
         config=config,
@@ -14,3 +15,5 @@ if __name__ == "__main__":
         visualizer_cls=CovidVisualizer
     )
     simulator.run_visual()
+    # simulator.run()
+

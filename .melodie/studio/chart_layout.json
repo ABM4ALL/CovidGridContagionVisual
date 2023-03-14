@@ -1,20 +1,20 @@
 {
-    "visualizer-grid": {
-        "left": 0,
+    "chart-infection_count_line": {
+        "left": 910,
         "top": 0,
-        "height": 512,
-        "width": 575
+        "height": 400,
+        "width": 700
     },
-    "chart-line": {
-        "left": 627,
-        "top": 3,
-        "height": 320,
-        "width": 500
+    "chart-infection_count_bar": {
+        "left": 910,
+        "top": 410,
+        "height": 400,
+        "width": 700
     },
-    "chart-bar": {
-        "left": 627,
-        "top": 370,
-        "height": 320,
-        "width": 500
+    "visualizer-grid": {
+        "left": 30,
+        "top": 0,
+        "height": 810,
+        "width": 810
     }
 }
